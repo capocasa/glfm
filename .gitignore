@@ -1,1 +1,4 @@
-build
+build/android/app/build
+build/android/app/.gradle
+build/android/app/.cxx
+
